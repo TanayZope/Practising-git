@@ -12,3 +12,4 @@ print(f"numbers[0:9:4]={numbers[0:9:4]}")
 
 print(f"numbers[::]={numbers[::]}")
 print(f"numbers[::-1]={numbers[::-1]}")
+
